@@ -1,0 +1,3 @@
+This repository will contain articles published on the blog Girlscrolls.
+
+As content head of Girlscript, I am always thrilled to welcome new and passionate voices encouraging inclusion in tech! Feel free to reach out to me to share your ideas and join our organization in making the work-world, more diverse and welcoming to people, wherever they come from and whoever they may be...
